@@ -41,30 +41,35 @@
 
 I'm a Computer Science Engineering student who'd rather ship a rough version of an idea than talk about the perfect one. Currently splitting time between **job-hunting for a full-stack engineering role** and **building TravelBuddy**, an AI-powered travel recommendation platform, on the side.
 
-```yaml
-name: Rajvardhan Desai
-role: Software Developer / AI Product Builder
-education: B.E. Computer Science Engineering — CGPA 7.2 (Penultimate Year)
-based_in: Kolhapur, Maharashtra, India
+<table>
+<tr><td width="140">🧑‍🚀&nbsp;<b>Name</b></td><td>Rajvardhan Desai</td></tr>
+<tr><td>🛠️&nbsp;<b>Role</b></td><td>Software Developer / AI Product Builder</td></tr>
+<tr><td>🎓&nbsp;<b>Education</b></td><td>B.E. Computer Science Engineering — CGPA 7.2, Penultimate Year</td></tr>
+<tr><td>📍&nbsp;<b>Based in</b></td><td>Kolhapur, Maharashtra, India</td></tr>
+</table>
 
-currently_building:
-  - TravelBuddy — AI-powered, context-aware travel recommendation platform
+<br/>
 
-currently_learning:
-  - Large Language Models & Prompt Engineering
-  - System Design
-  - Cloud Infrastructure
+**🔧 Currently Building**
+<br/>
+<img src="https://img.shields.io/badge/TravelBuddy-AI--powered%20travel%20recommendation%20platform-A6192E?style=flat-square&labelColor=0D0D0D&logoColor=FFD700"/>
 
-interests:
-  - Artificial Intelligence & Recommender Systems
-  - Full-Stack Product Engineering
-  - FinTech
-  - Photography
+**📡 Currently Learning**
+<br/>
+<img src="https://img.shields.io/badge/-LLMs%20%26%20Prompt%20Engineering-0D0D0D?style=flat-square&color=FFD700"/>
+<img src="https://img.shields.io/badge/-System%20Design-0D0D0D?style=flat-square&color=FFD700"/>
+<img src="https://img.shields.io/badge/-Cloud%20Infrastructure-0D0D0D?style=flat-square&color=FFD700"/>
 
-mission: >
-  Build AI-powered products that make complex, high-friction decisions
-  simple — then find people who want to build the next one with me.
-```
+**⚡ Interests**
+<br/>
+<img src="https://img.shields.io/badge/-AI%20%26%20Recommender%20Systems-0D0D0D?style=flat-square&color=A6192E"/>
+<img src="https://img.shields.io/badge/-Full--Stack%20Engineering-0D0D0D?style=flat-square&color=A6192E"/>
+<img src="https://img.shields.io/badge/-FinTech-0D0D0D?style=flat-square&color=A6192E"/>
+<img src="https://img.shields.io/badge/-Photography-0D0D0D?style=flat-square&color=A6192E"/>
+
+<br/>
+
+> 🎯 **Mission** — Build AI-powered products that make complex, high-friction decisions simple, then find people who want to build the next one with me.
 
 <br/>
 
