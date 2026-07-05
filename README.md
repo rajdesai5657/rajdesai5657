@@ -2,33 +2,33 @@
 <!--                        HEADER BANNER                       -->
 <!-- ========================================================= -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3B82F6,100:22D3EE&height=260&section=header&text=Rajvardhan%20Desai&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Product%20Builder%20%E2%80%A2%20Founder%20in%20Progress&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:A6192E,100:FFD700&height=260&section=header&text=Rajvardhan%20Desai&fontSize=52&fontColor=FFD700&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Product%20Builder%20%E2%80%A2%20Founder%20in%20Progress&descAlignY=55&descSize=18"/>
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+TravelBuddy+%E2%80%94+an+AI+travel+engine;Full-Stack+Developer+%7C+React+%2F+Node+%2F+Python;2x+Hackathon+Winner;Open+to+Software+Engineering+Roles;Always+shipping+something" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+TravelBuddy+%E2%80%94+an+AI+travel+engine;Full-Stack+Developer+%7C+React+%2F+Node+%2F+Python;2x+Hackathon+Winner;Open+to+Software+Engineering+Roles;Always+shipping+something" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/https://linkedin.com/in/rajvardhan-desai-90a713346">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-A6192E?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
 <a href="mailto:rajvardhandesai979@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-A6192E?style=for-the-badge&logo=gmail&logoColor=FFD700" />
 </a>
 <a href="https://github.com/rajdesai5657">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFD700" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FFD700" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20ROLES-22D3EE?style=flat-square&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/BUILDING-TravelBuddy-F59E0B?style=flat-square&labelColor=0F172A" />
-<img src="https://komarev.com/ghpvc/?username=rajdesai5657&label=PROFILE%20VIEWS&color=0F172A&style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20ROLES-FFD700?style=flat-square&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/BUILDING-TravelBuddy-A6192E?style=flat-square&labelColor=0D0D0D" />
+<img src="https://komarev.com/ghpvc/?username=rajdesai5657&label=PROFILE%20VIEWS&color=A6192E&style=flat-square" />
 
 </div>
 
@@ -42,7 +42,7 @@
 I'm a Computer Science Engineering student who'd rather ship a rough version of an idea than talk about the perfect one. Currently splitting time between **job-hunting for a full-stack engineering role** and **building TravelBuddy**, an AI-powered travel recommendation platform, on the side.
 
 ```yaml
-Name: Rajvardhan Desai
+name: Rajvardhan Desai
 role: Software Developer / AI Product Builder
 education: B.E. Computer Science Engineering — CGPA 7.2 (Penultimate Year)
 based_in: Kolhapur, Maharashtra, India
@@ -186,14 +186,16 @@ Designed a recommendation framework using **AHP (Analytic Hierarchy Process)** a
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajdesai5657&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D&title_color=FFD700&icon_color=A6192E&text_color=E6E6E6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdesai5657&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=FFD700&text_color=E6E6E6"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdesai5657&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdesai5657&hide_border=true&background=0D0D0D&ring=A6192E&fire=FFD700&currStreakLabel=FFD700&sideLabels=E6E6E6&currStreakNum=FFD700&sideNums=E6E6E6&dates=8B8B8B"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajdesai5657&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajdesai5657&hide_border=true&bg_color=0D0D0D&color=FFD700&line=A6192E&point=FFD700&area=true&area_color=A6192E"/>
 
 </div>
 
@@ -224,7 +226,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: rajdesai5657
-          outputs: dist/github-snake.svg
+          outputs: dist/github-snake.svg?color_snake=A6192E&color_dots=0D0D0D,0D0D0D,A6192E,A6192E,FFD700
       - uses: actions/upload-artifact@v4
         with:
           name: github-snake
@@ -252,7 +254,7 @@ Then embed:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajdesai5657&theme=tokyonight&no-frame=true&margin-w=12&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rajdesai5657&theme=gatsby&no-frame=true&margin-w=12&row=1&column=7"/>
 </div>
 
 <br/>
@@ -277,7 +279,7 @@ Then embed:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/https://linkedin.com/in/rajvardhan-desai-90a713346">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 &nbsp;
@@ -308,4 +310,4 @@ Then embed:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0F172A&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:A6192E,100:0D0D0D&height=100&section=footer"/>
