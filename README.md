@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+<a href="https://www.linkedin.com/in/https://linkedin.com/in/rajvardhan-desai-90a713346">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:rajvardhandesai979@gmail.com">
@@ -42,7 +42,7 @@
 I'm a Computer Science Engineering student who'd rather ship a rough version of an idea than talk about the perfect one. Currently splitting time between **job-hunting for a full-stack engineering role** and **building TravelBuddy**, an AI-powered travel recommendation platform, on the side.
 
 ```yaml
-name: Rajvardhan Desai
+Name: Rajvardhan Desai
 role: Software Developer / AI Product Builder
 education: B.E. Computer Science Engineering — CGPA 7.2 (Penultimate Year)
 based_in: Kolhapur, Maharashtra, India
@@ -186,8 +186,6 @@ Designed a recommendation framework using **AHP (Analytic Hierarchy Process)** a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajdesai5657&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdesai5657&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
@@ -279,7 +277,7 @@ Then embed:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+<a href="https://www.linkedin.com/in/https://linkedin.com/in/rajvardhan-desai-90a713346">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 &nbsp;
