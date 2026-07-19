@@ -184,27 +184,7 @@ Designed a recommendation framework using **AHP (Analytic Hierarchy Process)** a
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                      GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajdesai5657&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D&title_color=FFD700&icon_color=A6192E&text_color=E6E6E6"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdesai5657&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=FFD700&text_color=E6E6E6"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdesai5657&hide_border=true&background=0D0D0D&ring=A6192E&fire=FFD700&currStreakLabel=FFD700&sideLabels=E6E6E6&currStreakNum=FFD700&sideNums=E6E6E6&dates=8B8B8B"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajdesai5657&hide_border=true&bg_color=0D0D0D&color=FFD700&line=A6192E&point=FFD700&area=true&area_color=A6192E"/>
-
-</div>
-
-<br/>
 
 <!-- ========================================================= -->
 <!--            CONTRIBUTION SNAKE (GitHub Actions)              -->
@@ -253,14 +233,6 @@ Then embed:
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                      GITHUB TROPHIES                        -->
-<!-- ========================================================= -->
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajdesai5657&theme=gatsby&no-frame=true&margin-w=12&row=1&column=7"/>
-</div>
 
 <br/>
 
@@ -270,7 +242,6 @@ Then embed:
 ## 🎯 Current Goals
 
 - [ ] 🚀 Launch TravelBuddy v1 publicly
-- [ ] 💼 Land a full-stack Software Engineering role
 - [ ] 🌍 Contribute to open source
 - [ ] 📚 Go deep on system design
 - [ ] 🤖 Ship another AI-powered product
